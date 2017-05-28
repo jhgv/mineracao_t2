@@ -1,0 +1,6 @@
+[2]  arXiv:1705.03883 [pdf]
+Exact Requirements Engineering for Developing Business Process Models
+Masoud Nosrati
+Comments: (IEEE) 3th International Conference on Web Research
+Subjects: Software Engineering (cs.SE)
+Process modeling is a suitable tool for improving the business processes. Successful process modeling strongly depends on correct requirements engineering. In this paper, we proposed a combination approach for requirements elicitation for developing business models. To do this, BORE (Business-Oriented Requirements Engineering) method is utilized as the base of our work and it is enriched by the important features of the BDD (Business-driven development) method, in order to make the proposed approach appropriate for modeling the more complex processes. As the main result, our method eventuates in exact requirements elicitation that adapts the customers' needs. Also, it let us avoid any rework in the modeling of process. In this paper, we conduct a case study for the paper submission and publication system of a journal. The results of this study not only give a good experience of real world application of proposed approach on a web-based system, also it approves the proficiency of this approach for modeling the complex systems with many sub-processes and complicated relationships.

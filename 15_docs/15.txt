@@ -1,0 +1,6 @@
+[9]  arXiv:1705.03966 [pdf, other]
+Global instability of low-density jets
+W. Coenen, L. Lesshafft, X. Garnaud, A. Sevilla
+Journal-ref: J. Fluid Mech. vol. 820 187-207 (2017)
+Subjects: Fluid Dynamics (physics.flu-dyn)
+The global stability of laminar axisymmetric low-density jets is investigated in the low Mach number approximation. The linear modal dynamics is found to be characterised by two features: a stable arc branch of eigenmodes and an isolated eigenmode. Both features are studied in detail, revealing that, whereas the former is highly sensitive to numerical domain size and its existence can be linked to spurious feedback from the outflow boundary, the latter is the physical eigenmode that is responsible for the appearance of self-sustained oscillations in low-density jets observed in experiments at low Mach numbers. In contrast to previous local spatio-temporal stability analyses, the present global analysis permits, for the first time, the determination of the critical conditions for the onset of global instability, as well the frequency of the associated oscillations, without additional hypotheses, yielding predictions in fair agreement with previous experimental observations. It is shown that under the conditions of those experiments, viscosity variation with composition, as well as buoyancy, only have a small effect on the onset of instability.

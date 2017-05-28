@@ -1,0 +1,6 @@
+[3]  arXiv:1705.03911 [pdf, other]
+Recognition of the Spherical Laguerre Voronoi Diagram
+Supanut Chaidee, Kokichi Sugihara
+Comments: Preprint submitted to Computational Geometry: Theory and Applications
+Subjects: Computational Geometry (cs.CG)
+In this paper, we construct an algorithm for determining whether a given tessellation on a sphere is a spherical Laguerre Voronoi diagram or not. For spherical Laguerre tessellations, not only the locations of the Voronoi generators, but also their weights are required to recover. However, unlike the ordinary spherical Voronoi diagram, the generator set is not unique, which makes the problem difficult. To solve the problem, we use the property that a tessellation is a spherical Laguerre Voronoi diagram if and only if there is a polyhedron whose central projection coincides with the tessellation. We determine the degrees of freedom for the polyhedron, and then construct an algorithm for recognizing Laguerre tessellations.

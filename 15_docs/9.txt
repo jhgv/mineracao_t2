@@ -1,0 +1,6 @@
+[1]  arXiv:1705.03879 [pdf]
+Meta-Gratings: Beyond the Limits of Graded Metasurfaces for Wavefront Control
+Younes Ra'di, Dimitrios L. Sounas, Andrea Alu
+Comments: 16 pages, 2 figures
+Subjects: Applied Physics (physics.app-ph); Optics (physics.optics)
+Graded metasurfaces exploit the local momentum imparted by an impedance gradient to transform the impinging wavefront. This approach suffers from fundamental limits on the overall conversion efficiency and it is challenged by fabrication limitations on the maximum spatial resolution. Here, we introduce the concept of meta-gratings, which enables arbitrary wavefront engineering with unitary efficiency and significantly lower demands on the fabrication precision. We employ this concept to design reflective metasurfaces for wavefront steering without limitations on efficiency. A similar approach is envisioned for transmitted beams and for arbitrary wavefront transformation, opening promising opportunities for highly-efficient metasurfaces for extreme wave manipulation.

@@ -1,0 +1,6 @@
+[6]  arXiv:1705.03940 [pdf, ps, other]
+High-power femtosecond pulses without a modelocked laser
+Walter Fu, Logan G. Wright, Frank W. Wise
+Comments: 7 pages, 6 figures
+Subjects: Optics (physics.optics)
+We demonstrate a fiber system which amplifies and compresses pulses from a gain-switched diode. A Mamyshev regenerator shortens the pulses and improves their coherence, enabling subsequent amplification by parabolic pre-shaping. As a result, we are able to control nonlinear effects and generate nearly transform-limited, 140-fs pulses with 13-MW peak power---an order-of-magnitude improvement over previous gain-switched diode sources. Seeding with a gain-switched diode results in random fluctuations of 2% in the pulse energy, which future work using known techniques may ameliorate. Further development may allow such systems to compete directly with sources based on modelocked oscillators in some applications while enjoying unparalleled robustness and repetition rate control.
